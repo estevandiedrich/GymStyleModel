@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.1
+Created-By: 1.7.0_45-b18 (Oracle Corporation)
+Class-Path: lib/LDSUtils.jar lib/jna.jar lib/postgresql-8.4-701.jdbc4.
+ jar lib/mysql-connector-java-5.1.26.jar lib/JRimum-Bopepo-SNAPSHOT-20
+ 110415-bin.jar lib/commons-lang-2.4.jar lib/iText-2.1.7.jar lib/log4j
+ -1.2.15.jar lib/GymStyleDB.jar
+

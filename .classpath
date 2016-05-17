@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/GymStyleDB"/>
+	<classpathentry kind="lib" path="C:/Users/estevan/workspace/GymStyleWeb/WebContent/WEB-INF/lib/JRimum-Bopepo-SNAPSHOT-20110415-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/estevan/workspace/GymStyleWeb/WebContent/WEB-INF/lib/postgresql-8.4-701.jdbc4.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
